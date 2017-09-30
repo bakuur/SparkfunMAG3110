@@ -1,0 +1,7 @@
+{
+  "name": "SparkFun_MAG3110",
+  "author": "Baker Al-Nakib",
+  "license": "The MIT License",
+  "version": "0.0.1",
+  "description": "Library for controling the MAG3110 Magnetometer By SparkFun"
+}
